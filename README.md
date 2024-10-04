@@ -1,2 +1,2 @@
 # face-detection-java
-Face Detection Websocket
+Java Face Detection Websocket 
